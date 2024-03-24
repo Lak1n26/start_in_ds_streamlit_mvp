@@ -1,2 +1,6 @@
-# start_in_ds_streamlit_mvp
-Streamlit для создания MVP (буткемп Старт в Data Science ВШЭ)
+# Предсказание кредитоспособности клиента
+Проект создан в рамках буткемпа "Старт в Data Science" от ВШЭ
+Датасет взят с сайта: https://www.kaggle.com/datasets/bsugiarto9/loan-status-prediction-with-added-nans/data
+
+
+By Danila Lyapin
